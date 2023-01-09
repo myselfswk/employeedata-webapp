@@ -1,0 +1,43 @@
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.full_screen {
+  width: 100vw;
+  height: 100vh;
+}
+
+.new_employee_btn_container {
+  width: 800px;
+  margin: 20px 0;
+}
+
+.table_container {
+  width: 800px !important;
+}
+
+.form_container {
+  width: 350px;
+  padding: 30px;
+}
+
+.form_heading {
+  margin-top: 0;
+  text-transform: uppercase;
+}
+
+.input {
+  width: 100% !important;
+  margin: 5px 0 !important;
+}
+
+.submit_btn {
+  width: 100% !important;
+  margin-top: 10px !important;
+}
